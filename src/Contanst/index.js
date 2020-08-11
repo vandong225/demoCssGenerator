@@ -1,0 +1,5 @@
+export const CHANGE_SLIDER = "CHANGE_SLIDER";
+export const ADD_LAYER = "ADD_LAYER";
+export const SWAP_SELECT = "SWAP_SELECT";
+export const CHANGE_COLOR_SHADOW = "CHANGE_COLOR_SHADOW";
+export const CHANGE_LAYOUT = "CHANGE_LAYOUT";
